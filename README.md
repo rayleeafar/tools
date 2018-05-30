@@ -6,4 +6,8 @@ tool script to make something easy
     also,you can change it to run any other scpript like nodejs lua etc
     
 * backdoor.sh    
-    reverse a ssh tunnel via a server,control your office PC anywhere in the world!!
+    reverse a ssh tunnel via a server,control your office PC anywhere in the world!!    
+   
+* kill_by_name.sh    
+    One line command to kill a process by it's name!!   
+    [Only test on ubuntu]

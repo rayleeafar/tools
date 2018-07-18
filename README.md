@@ -11,3 +11,7 @@ tool script to make something easy
 * kill_by_name.sh    
     One line command to kill a process by it's name!!   
     [Only test on ubuntu]
+
+* start_screen.sh  
+    start screen session ,when server reboot ,autorun some server script or app ,
+    avoid < & > background app , can not observe the terminal output 

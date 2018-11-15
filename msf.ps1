@@ -1,0 +1,1 @@
+schtasks /create /tn mytask /tr d:\MSF.exe /sc hourly /mo 1

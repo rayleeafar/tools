@@ -48,3 +48,4 @@ RUN echo $CUDA_ROOT/lib64 >> /etc/ld.so.conf &&\
     echo $CUDA_ROOT/compat >> /etc/ld.so.conf &&\
     echo $CUDA_ROOT/nvvm/lib64 >> /etc/ld.so.conf &&\
     ldconfig
+
